@@ -1,0 +1,5 @@
+nilai_A = int(input("masukan nilai A :"))
+nilai_B =int(input ("masukan nilai B :"))
+print("hasil penjumlahan:",nilai_A+nilai_B)
+print ("hasil pengurangan:",nilai_A-nilai_B)
+print("hasil perkalian",nilai_A*nilai_B)
